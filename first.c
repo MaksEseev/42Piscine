@@ -3,9 +3,9 @@ int main(void)
 {
     int num;
     num = 1;
-    printf("Яперсональный ");
+    printf("Я персональный ");
     printf("компьютер.\n");
     printf("Мое любимое число %d, потому что оно первое.\n",num);
-getcgar();
+    getchar();
 	return 0;
 }
